@@ -1,0 +1,152 @@
+{
+   "en" : [{
+            "quiz" : ["yolk", "mayonnaise", "hen"], 
+            "options" : ["egg", "mountains"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["next", "near", "behind"], 
+            "options" : ["places", "trace"],
+            "correct" : 1
+        },
+        {
+            "quiz" : ["dress", "suit", "socks"], 
+            "options" : ["clothes", "exotic"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["orange", "apple", "pineapple"], 
+            "options" : ["garbage", "fruits"],
+            "correct" : 2
+        },
+       {
+            "quiz" : ["pen", "notebook", "case"], 
+            "options" : ["chancellery", "son"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["hp", "apple", "dell"], 
+            "options" : ["company", "book"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["bedroom", "bathroom", "livingroom"], 
+            "options" : ["apartament", "rooms"],
+            "correct" : 1
+        },
+        {
+            "quiz" : ["medical record ", "pill", "medical insurance"], 
+            "options" : ["doctor", "loop"],
+            "correct" : 1
+        },
+        {
+            "quiz" : ["bell", "diary", "evaluation"], 
+            "options" : ["school", "places"],
+            "correct" : 1
+        },
+     {
+            "quiz" : ["book", "librarian", "shelves"], 
+            "options" : ["library", "son"],
+            "correct" : 1
+        }],
+        "ro" : [{
+            "quiz" : ["gălbenuș", "maioneză", "găină"], 
+            "options" : ["ou", "munţi"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["următor", "langa", "în spate"], 
+            "options" : ["locuri", "urmă"],
+            "correct" : 1
+        },
+        {
+            "quiz" : ["rochie", "costum", "șosete"], 
+            "options" : ["imbracaminte", "exotic"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["portocală", "mar", "ananas"], 
+            "options" : ["gunoi", "fructe"],
+            "correct" : 2
+        },
+       {
+            "quiz" : ["pix", "caiet", "penar"], 
+            "options" : ["cancelaria", "fiu"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["hp", "apple", "dell"], 
+            "options" : ["firmă", "carte"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["dormitor", "baie", "camera de zi"], 
+            "options" : ["apartament", "camere"],
+            "correct" : 2
+        },
+        {
+            "quiz" : ["fisa medicala ", "medicament", "asigurare medicală"], 
+            "options" : ["medic", "loop"],
+            "correct" : 1
+        },
+        {
+            "quiz" : ["sunet", "agemda", "nota"], 
+            "options" : ["scoala", "blocuri"],
+            "correct" : 1
+        },
+     {
+            "quiz" : ["carte", "bibliotecar", "rafturi"], 
+            "options" : ["biblioteca", "fica"],
+            "correct" : 1
+        }],
+        "ru" : [{
+            "quiz" : ["желток", "майонез", "курица"], 
+            "options" : ["яйцо", "горы"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["следующий", "рядом", "позади"], 
+            "options" : ["место", "trace"],
+            "correct" : 1
+        },
+        {
+            "quiz" : ["платье", "костюм", "носки"], 
+            "options" : ["одежда", "экзотически"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["апельсин", "яблоко", "ананас"], 
+            "options" : ["мусор", "фрукты"],
+            "correct" : 2
+        },
+       {
+            "quiz" : ["ручка", "тетрадь", "пенал"], 
+            "options" : ["канцелярия", "сын"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["hp", "apple", "dell"], 
+            "options" : ["кампании", "книга"],
+            "correct" : 1
+        },
+       {
+            "quiz" : ["спальна", "ванна", "гостинная"], 
+            "options" : ["апартамент", "комнаты"],
+            "correct" : 2
+        },
+        {
+            "quiz" : ["медицинская карта ", "таблетка", "медицинская страховка"], 
+            "options" : ["доктор", "loop"],
+            "correct" : 1
+        },
+        {
+            "quiz" : ["звонок", "дневник", "оценка"], 
+            "options" : ["школа", "место"],
+            "correct" : 1
+        },
+     {
+            "quiz" : ["книга", "библиотекарь", "полки"], 
+            "options" : ["библиотека", "дочь"],
+            "correct" : 1
+        }]
+    }
